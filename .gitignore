@@ -1,0 +1,41 @@
+# Gradle files
+.gradle
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# The Android Open Source Project
+.repo/
+.repo-new/
+
+# Mac
+.DS_Store
+
+# Kotlin
+kotlin-js-store/
+
+# Maven
+target/
+
+# Misc
+*.swp
+*.swo
+*~
